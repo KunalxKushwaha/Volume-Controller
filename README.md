@@ -5,15 +5,10 @@ The Volume Controller project utilizes computer vision and gesture recognition t
 
 How It Works:
 1. Capture real-time video from the webcam.
-
 2. Use Mediapipe to detect hand landmarks.
-
 3. Measure the Euclidean distance between the thumb tip and index finger tip.
-
 4. Map the measured distance to the system's volume range using interpolation.
-
 5. Update the system volume using pycaw.
-
 6. Display volume level and gesture overlay on the video feed for user feedback.
 
 Author - Kunal Kushwaha

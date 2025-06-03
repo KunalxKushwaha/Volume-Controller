@@ -1,6 +1,6 @@
-# Hey Hey Hey!!!!!!! 
+# 🖐🔊 Gesture-Based Volume Controller Using OpenCV & MediaPipe
 
-So this baSically controls the volume on your Desktop or System through their Speakers or Bluetooth Connected Devices.<br>
+So this Basically controls the volume on your Desktop or System through their Speakers or Bluetooth Connected Devices.<br>
 
 While it’s a relatively simple utility, it showcases the power of combining AI, computer vision, and user-centric design. These technologies can lead to more intuitive, accessible, and contactless user experiences — something that's increasingly relevant in today’s tech landscape.<br>
 

@@ -18,7 +18,7 @@ Modular code design and debugging under performance constraints
 <h4>🎯 Objective</h4>
 To build a touchless and user-friendly method of controlling system volume by simply adjusting the space between your fingers — promoting a more modern, contactless interaction experience, useful for presentations, media control, or accessibility contexts.
 
-⚙️ Core Technologies
+⚙️ Core Technologies<br>
 OpenCV: Real-time webcam input and overlay visuals (volume bar, hand annotations).
 
 MediaPipe Hands: Robust hand tracking model that provides 21 landmark points per hand.

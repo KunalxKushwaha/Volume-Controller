@@ -21,3 +21,4 @@ Modular code design and debugging under performance constraints
 ✔️ Gesture thresholding for better control
 ✔️ Real-time hand landmark plotting
 ✔️ Lightweight, fast, and highly responsive
+

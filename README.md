@@ -30,10 +30,15 @@ NumPy + Math: For efficient distance and interpolation calculations.
 
 
 
-<h4>📈 Key Features Implemented</h4><br>
-✔️ Smooth volume adjustment using finger distance<br>
-✔️ Visual volume bar and percentage overlay<br>
-✔️ Gesture thresholding for better control<br>
-✔️ Real-time hand landmark plotting<br>
-✔️ Lightweight, fast, and highly responsive<br>
+<h3>🛠 Features</h3><br>
+👁️ Real-time finger tracking with low latency
 
+🔉 Live volume adjustment based on finger distance
+
+📊 On-screen volume bar and percentage display
+
+🖼️ Smooth graphics with OpenCV
+
+🔄 Smoothing logic for stable volume transitions
+
+❌ No external hardware or buttons required

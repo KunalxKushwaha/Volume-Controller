@@ -42,3 +42,5 @@ NumPy + Math: For efficient distance and interpolation calculations.
 🔄 Smoothing logic for stable volume transitions
 
 ❌ No external hardware or buttons required
+
+# Author - Kunal Kushwaha

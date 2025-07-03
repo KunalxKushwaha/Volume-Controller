@@ -43,4 +43,4 @@ NumPy + Math: For efficient distance and interpolation calculations.
 
 ❌ No external hardware or buttons required.
 
-# Author - Kunal Kushwaha
+# Author - Kunal Kushwaha✒️

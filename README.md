@@ -35,7 +35,7 @@ NumPy + Math: For efficient distance and interpolation calculations.
 
 🔉 Live volume adjustment based on finger distance.
 
-📊 On-screen volume bar and percentage display
+📊 On-screen volume bar and percentage display.
 
 🖼️ Smooth graphics with OpenCV
 

@@ -39,7 +39,7 @@ NumPy + Math: For efficient distance and interpolation calculations.
 
 🖼️ Smooth graphics with OpenCV.
 
-🔄 Smoothing logic for stable volume transitions
+🔄 Smoothing logic for stable volume transitions.
 
 ❌ No external hardware or buttons required
 

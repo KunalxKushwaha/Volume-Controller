@@ -15,7 +15,7 @@ System-level audio control.
 Modular code design and debugging under performance constraints.
 
 
-<h3>🎯 Objective</h3>
+<h2>🎯 Objective</h2>
 To build a touchless and user-friendly method of controlling system volume by simply adjusting the space between your fingers — promoting a more modern, contactless interaction experience, useful for presentations, media control, or accessibility contexts.
 
 ⚙️ Core Technologies<br>

@@ -31,7 +31,7 @@ NumPy + Math: For efficient distance and interpolation calculations.
 
 
 <h2>🛠 Features</h2><br>
-👁️ Real-time finger tracking with low latency
+👁️ Real-time finger tracking with low latency.
 
 🔉 Live volume adjustment based on finger distance.
 

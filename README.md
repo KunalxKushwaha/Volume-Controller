@@ -23,7 +23,7 @@ OpenCV: Real-time webcam input and overlay visuals (volume bar, hand annotations
 
 MediaPipe Hands: Robust hand tracking model that provides 21 landmark points per hand.
 
-Pycaw: Python library to access and control the Windows audio endpoint API.
+Pycaw: Python library to access and control the Windows audio Endpoint API.
 
 NumPy + Math: For efficient distance and interpolation calculations.
 

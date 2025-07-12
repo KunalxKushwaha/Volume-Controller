@@ -4,7 +4,7 @@ A computer vision project that transforms your hand gestures into system volume 
 
 While it’s a relatively simple utility, it showcases the power of combining AI, computer vision, and user-centric design. These technologies can lead to more intuitive, accessible, and contactless user experiences — something that's increasingly relevant in today’s tech landscape.<br>
 
-This project helped me strengthen my understanding of
+This project helped me strengthen my understanding o
 Real-time data processing.
 
 Human-computer interaction

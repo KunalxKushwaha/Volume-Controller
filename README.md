@@ -7,7 +7,7 @@ While it’s a relatively simple utility, it showcases the power of combining AI
 This project helped me strengthen my understanding of:
 Real-time data processing.
 
-Human-computer interaction
+Human-computer interaction.
 
 System-level audio control.
 

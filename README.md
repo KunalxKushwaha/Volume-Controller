@@ -9,7 +9,7 @@ Real-time data processing.
 
 Human-computer interaction.
 
-System-level audio control
+System-level audio control.
 
 Modular code design and debugging under performance constraints
 
